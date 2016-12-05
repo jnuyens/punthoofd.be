@@ -10,6 +10,7 @@ I don't really use Punthoofd anymore, so the site has been lacking updates for a
 
 A few todos that are on the list:
 * Update the RSS sources (e.g. in `hoofdpunten.php` and `hoofdpunten.sh`), many of them are defunct
+* Seperate backend crawler/dataminer from frontend
 * Code clean-up. This is an 8-year old hack.
 * A reboot?
 
