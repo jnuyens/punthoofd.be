@@ -71,7 +71,8 @@ class NewsItem {
 $newsitems = array();
 $newsfeeds = 0;
 
-require_once('simplepie.inc');
+//require_once('simplepie.inc');
+require_once('autoloader.php');
 
 function parse( $filename, $src ) {
 	global $newsfeeds;
